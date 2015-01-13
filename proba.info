@@ -1,0 +1,7 @@
+name = Proba
+description = This is an example.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
