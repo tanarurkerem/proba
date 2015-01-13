@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Proba Blog feature.
+ */
+
+include_once 'proba_blog.features.inc';
